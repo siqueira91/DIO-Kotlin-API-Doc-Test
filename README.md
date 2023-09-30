@@ -1,4 +1,4 @@
-Repositório criado para desafo de projeto do Bootcamp "Code Update TQI - Backend com Kotlin e Java" conforme orientações do link: 
+Repositório criado para desafio de projeto do Bootcamp "Code Update TQI - Backend com Kotlin e Java" conforme orientações do link: 
 https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286
 
 
